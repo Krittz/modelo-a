@@ -435,9 +435,3 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-track {
   background-color: #00000036;
 }
-.progress{
-  background: #7ac2a82a;
-}
-.progress-bar{
-  background: #3aecab;
-}
